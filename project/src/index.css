@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+.page{
+   text-align: center;
+}
+/* .box{
+    text-align: center;
+}
+button{
+    margin :10px;
+}
+.innerbox{
+    padding: 10px;
+} */
+
+.card{
+    display: flex;
+     justify-content: center;
+     width: 100%;
+}
+
+.innercard{
+    border: 1px solid #000;
+    margin: 1px;
+    width:50%;
+
+}
+li{
+display: inline-block;
+text-decoration: none;
+color:#2b1dad;
+}
+.box ,a{
+    text-align: center;
+    text-decoration: none;
+
+}
+button{
+    margin:  2px;
+}
